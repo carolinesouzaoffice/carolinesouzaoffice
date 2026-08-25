@@ -4,7 +4,7 @@
  * 📚 Atualmente focada em **estudar e aprimorar meus conhecimentos em programação e projetos práticos**
 * 💻 Estudante e entusiasta
 * 🌎 **Inglês avançado**, incluindo leitura e compreensão de conteúdos técnicos
-*  Especialista Ui/UX
+• Conhecimento em UI/UX Design
 
 ##
 
