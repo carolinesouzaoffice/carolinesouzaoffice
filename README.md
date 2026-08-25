@@ -4,6 +4,7 @@
  * 📚 Atualmente focada em **estudar e aprimorar meus conhecimentos em programação e projetos práticos**
 * 💻 Estudante e entusiasta
 * 🌎 **Inglês avançado**, incluindo leitura e compreensão de conteúdos técnicos
+*  Especialista Ui/UX
 
 ##
 
@@ -15,7 +16,7 @@
 <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python">
 <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C">
 <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java">
-
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma">
 </div>
 
 ##
