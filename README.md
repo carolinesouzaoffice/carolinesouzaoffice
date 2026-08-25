@@ -1,6 +1,6 @@
 # Olá, Sou Carol 👋
 
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas — 1º ano** na **UCSAL**
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas — 2º ano** na **UCSAL**
  * 📚 Atualmente focada em **estudar e aprimorar meus conhecimentos em programação e projetos práticos**
 * 💻 Estudante e entusiasta
 * 🌎 **Inglês avançado**, incluindo leitura e compreensão de conteúdos técnicos
